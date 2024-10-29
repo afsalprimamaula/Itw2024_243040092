@@ -1,0 +1,26 @@
+body {background-color: aqua}
+body {
+    font-family: 'Georgia', serif;
+}
+h1 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 60px;
+    color: darkblue;
+}
+h4 {
+    text-align: right;
+    font-style: italic;
+}
+p {
+    text-align: justify;
+}
+.nama{color: white;
+}
+.nama:hover{color: red;}
+.alinea{color: orange;
+}
+.mark:hover{background-color: blue; color: white;
+}
+a {
+    text-decoration: none;
+}
