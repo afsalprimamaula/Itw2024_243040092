@@ -41,10 +41,10 @@ body {
 
 
 .hero {
-    height: 280px;
+    height: 380px;
     background-image: url(img/hero.png);
     background-size: cover;
-    background-position: 0 -180;
+    background-position: 0 0;
     border-top: 5px solid salmon;
     border-bottom: 5px solid lightskyblue;
 }
