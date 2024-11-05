@@ -2,8 +2,6 @@ body {
     margin: 0;
     font-family: 'Arial', sans-serif;
     background-color: #f4f4f4;
-    
- 
 color: #333;
 }
 
@@ -53,8 +51,8 @@ text-decoration: none;
 }
 
 .hero {
-    height: 280px;
-    background: url('your-image-hero.jpg') no-repeat center center/cover;
+    height: 550px;
+    background: url(img/messi\ 1.jpeg) no-repeat center center/cover;
      border-bottom: 5px solid #35424a;
 }
 
@@ -92,4 +90,16 @@ color: #666;
 
 .footer .copy {
     margin: 0;
+}
+
+.messi {
+    height: 600px;
+    background: url(img/messi\ 4.jpeg) no-repeat center center/cover;
+     border-bottom: 5px solid #35424a;
+}
+
+.mesi {
+    height: 600px;
+    background: url(img/messi\ 7.jpeg) no-repeat center center/cover;
+     border-bottom: 5px solid #35424a;
 }
